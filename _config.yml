@@ -1,14 +1,14 @@
 title: Hicham Atanane # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  2nd Year Data and Knowledge Engineering student at School of Information Science  
+  2nd Year Data and Knowledge Engineering student at School of Information Science
+ 
   <br><br>
-  Looking for a summer internship in machine learning and data science fields 
+  Looking for a summer internship in machine learning and data science fields
   <br><br>
-  <a href="https://www.linkedin.com/in/hicham-atanane/">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/hicham-atanane/">View My LinkedIn Profile</a> 
   <br><br>
-  #Email: hicham.atanane01@gmail.com
-  <br><br>
-
-theme: jekyll-theme-minmal
-google_analytics: G-RTD5LZWLBQ #Your Google analytics MEASUREMENT ID
+  Email: hicham.atanane01@gmail.com
+  
+theme: jekyll-theme-minimal
+google_analytics: G-RTD5LZWLBQ  # your Google Analytics tracking ID here
