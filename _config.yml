@@ -10,3 +10,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   #Email: hicham.atanane01@gmail.com
   <br><br>
 
+theme: jekyll-theme-minmal
+google_analytics: G-RTD5LZWLBQ #Your Google analytics MEASUREMENT ID
